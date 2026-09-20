@@ -1,6 +1,0 @@
-url: https://github.com/JuntaoXiao/dsh-pdf-sign
-name: JuntaoXiao/dsh-pdf-sign
-category: docs
-description:
-  en: 'PDF electronic signing: generate a handwritten-style signature image, stamp it on a PDF page, and apply a PKCS#7/CMS digital signature with a PKCS#12 certificate you supply.'
-  zh: 'PDF 电子签名：生成手写风格签名图、在 PDF 页面上盖章，并用自备的 PKCS#12 证书施加 PKCS#7/CMS 数字签名。'
